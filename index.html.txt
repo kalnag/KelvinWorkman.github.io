@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My github page site</title>
+  </head>
+  <body>
+    <h1>Welcome to SMU-Lyle school of Engineering</h1>
+    <p>Devops!</p>
+  </body>
+</html>
